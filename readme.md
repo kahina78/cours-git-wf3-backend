@@ -6,3 +6,5 @@ git push u // charger le contenu d'un depot local vers un dépot distant, transf
 git add // ajouter le fichier versionné
 
 git add -N // indexer
+
+git remote // ça sert à supprimer des connexions avec d'autres dépots
